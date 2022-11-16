@@ -1,1 +1,4 @@
-![SparkKernel Cover](https://i.imgur.com/5lwqBI2.png)
+![SparkKernel Cover](https://i.imgur.com/cEJpEag.png)
+
+# Sparkling
+Created, and maintained by frackz
